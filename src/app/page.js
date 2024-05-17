@@ -1,12 +1,9 @@
-// pages/index.js
-import Navbar from '../../components/navbar';
 
 export default function Home() {
 
   return (
     <div>
-      <Navbar>
-      </Navbar>
+     <h1>hello</h1>
     </div>
   );
 }
